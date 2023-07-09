@@ -1,6 +1,8 @@
+## Overview
+
 In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
-# Steps
+## Steps
   1. Load and preprocess the data.
   2. Scale the data using StandardScaler.
   3. Find the best value for k using the elbow method.
